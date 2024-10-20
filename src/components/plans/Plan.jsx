@@ -7,7 +7,7 @@ const Plan = () => {
     const [withdrawMethods,setWithdrawalMethods] = useState([
       {
         id:1,
-        min:'200',
+        min:'500',
         max:'3,000',
         image:'/btc.png',
         method:'BTC',
