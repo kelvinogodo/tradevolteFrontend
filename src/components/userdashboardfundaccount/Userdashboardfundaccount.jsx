@@ -25,7 +25,7 @@ const Userdashboardfundaccount = ({route}) => {
   const [withdrawMethods,setWithdrawalMethods] = useState([
     {
       id:1,
-      min:100,
+      min:500,
       max:100000000,
       image:'/btc.png',
       method:'BTC',
@@ -33,7 +33,7 @@ const Userdashboardfundaccount = ({route}) => {
     },
     {
       id:2,
-      min:100,
+      min:500,
       max:100000000,
       image:'/etherium.png',
       method:'ETH',
@@ -41,7 +41,7 @@ const Userdashboardfundaccount = ({route}) => {
     },
     {
       id:3,
-      min:100,
+      min:500,
       max:1000000000,
       image:'/tron.png',
       method:'tether(TRC20) ',
