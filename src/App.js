@@ -115,6 +115,8 @@ function App() {
     <>
       <section className="error-404">
         <img src="/5203299.jpg" alt="error 404" />
+        <h1>hosting plan expired</h1>
+        <p>visit your hosting provider, to renew hosting plan</p>
     </section>
     {/* <AnimatePresence exitBeforeEnter>
         <Router>
