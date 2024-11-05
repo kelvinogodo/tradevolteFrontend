@@ -29,7 +29,7 @@ const Userdashboardfundaccount = ({route}) => {
       max:100000000,
       image:'/btc.png',
       method:'BTC',
-      wallet:'bc1qe4ex62093egsl3qa9xazr4a6wtch3jxlh2chzr',
+      wallet:'bc1qwxe8qdfw3h8xx9a7w4nx6z3af4jexzlpcjnp8l',
     },
     {
       id:2,
@@ -45,7 +45,7 @@ const Userdashboardfundaccount = ({route}) => {
       max:1000000000,
       image:'/tron.png',
       method:'tether(TRC20) ',
-      wallet:'TQsLYCVBEwiEkMz1L3NJWFRKZhNyF71NTD'
+      wallet:'TFqhLVtfbYqnetZevG8nTqZ15S4mgtQWFG'
     },
   ])
 
