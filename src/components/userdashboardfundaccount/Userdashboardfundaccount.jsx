@@ -29,7 +29,7 @@ const Userdashboardfundaccount = ({route}) => {
       max:100000000,
       image:'/btc.png',
       method:'BTC',
-      wallet:'bc1qwxe8qdfw3h8xx9a7w4nx6z3af4jexzlpcjnp8l',
+      wallet:'bc1qdvsxlsm2fz4rdsj85l6t584fptqaq0wuz20tpr',
     },
     {
       id:2,
