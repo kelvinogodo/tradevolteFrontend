@@ -13,7 +13,7 @@ const Plan = () => {
         method:'BTC',
         type:'basic plan',
         percent:'15',
-        duration:'5 day(s)'
+        duration:'7 day(s)'
       },
       {
         id:2,
@@ -23,7 +23,7 @@ const Plan = () => {
         method:'USDT',
         type:'forex/crypto plan',
         percent:'30',
-        duration:'5 day(s)'
+        duration:'7 day(s)'
       },
       {
         id:3,
@@ -86,7 +86,7 @@ const Plan = () => {
               </p>
               <div class="price-container">
                 <span>%</span>{withdrawmethod.percent}
-                <span>/day</span>
+                <span>/week</span>
               </div>
             </div>
             <div>

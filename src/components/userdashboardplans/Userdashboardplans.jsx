@@ -32,7 +32,7 @@ const Userdashboardplans = ({route}) => {
         method:'BTC',
         type:'basic plan',
         percent:'15%',
-        duration:'5 days'
+        duration:'7 days'
       },
       {
         id:2,
@@ -42,7 +42,7 @@ const Userdashboardplans = ({route}) => {
         method:'USDT',
         type:'forex/crypto plan',
         percent:'30%',
-        duration:'5 days'
+        duration:'7 days'
       },
       {
         id:3,
