@@ -22,7 +22,7 @@ const Plan = () => {
         image:'/bnb.png',
         method:'USDT',
         type:'forex/crypto plan',
-        percent:'25',
+        percent:'30',
         duration:'25 day(s)'
       },
       {
