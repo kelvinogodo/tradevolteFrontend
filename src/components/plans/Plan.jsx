@@ -13,7 +13,7 @@ const Plan = () => {
         method:'BTC',
         type:'basic plan',
         percent:'15',
-        duration:'7 day(s)'
+        duration:'20 day(s)'
       },
       {
         id:2,
@@ -23,7 +23,7 @@ const Plan = () => {
         method:'USDT',
         type:'forex/crypto plan',
         percent:'30',
-        duration:'7 day(s)'
+        duration:'25 day(s)'
       },
       {
         id:3,
