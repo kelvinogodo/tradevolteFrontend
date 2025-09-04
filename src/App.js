@@ -167,7 +167,7 @@ function App() {
       </Router>
       </AnimatePresence>
       <span className="whatsapp-icon">
-        <a href="https://api.whatsapp.com/send?phone=+1(704)325-2216" target='blank'><IoLogoWhatsapp  /></a> 
+        <a href="https://api.whatsapp.com/send?phone=+1(731)991-3004" target='blank'><IoLogoWhatsapp  /></a> 
       </span>
     </>
   );
